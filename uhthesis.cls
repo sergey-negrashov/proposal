@@ -172,8 +172,7 @@
         \ifthenelse{\boolean{\@proposalp}}{
             A \MakeUppercase{\@papertype} PROPOSAL SUBMITTED TO MY COMMITTEE\par
         }{
-            A \MakeUppercase{\@papertype} SUBMITTED TO THE GRADUATE DIVISION OF THE\par
-            UNIVERSITY OF HAWAI`I AT M{\=A}NOA%
+            A \MakeUppercase{\@papertype} PROPOSAL SUBMITTED TO MY COMMITTEE\par
         }
         IN PARTIAL FULFILLMENT\par
         OF THE REQUIREMENTS FOR THE DEGREE OF\par
